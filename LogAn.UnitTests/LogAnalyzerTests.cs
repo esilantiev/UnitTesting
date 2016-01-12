@@ -85,8 +85,7 @@ namespace LogAn.UnitTests
             StringAssert.Contains("filename has to be provided", ex.Message);
         }
         
-        [Test]
-        [Category("Fast Tests")]
+        [Test]        
         public void IsValidLogFileName_EmptyFileName_ThrowsFluent()
         {
             LogAnalyzer la = MakeAnalyzer();
