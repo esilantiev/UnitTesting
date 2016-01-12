@@ -3,3 +3,8 @@ C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogA
 C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\obj\Debug\LogAn.csprojResolveAssemblyReference.cache
 C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\obj\Debug\LogAn.dll
 C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\obj\Debug\LogAn.pdb
+D:\Repository\UnitTesting\LogAn\bin\Debug\LogAn.dll
+D:\Repository\UnitTesting\LogAn\bin\Debug\LogAn.pdb
+D:\Repository\UnitTesting\LogAn\obj\Debug\LogAn.csprojResolveAssemblyReference.cache
+D:\Repository\UnitTesting\LogAn\obj\Debug\LogAn.dll
+D:\Repository\UnitTesting\LogAn\obj\Debug\LogAn.pdb
