@@ -6,21 +6,31 @@ namespace LogAn
     {
         public bool WasLastFileNameValid { get; set; }
 
+        private IExtensionManager manager;
+
+        public LogAnalyzer(IExtensionManager mgr)
+        {
+            manager = mgr;
+        }
+
         public bool IsValidLogFileName(string fileName)
         {
-            WasLastFileNameValid = false;
+            //WasLastFileNameValid = false;
 
-            if (string.IsNullOrEmpty(fileName))
-            {
-                throw new ArgumentException("filename has to be provided");
-            }
-            if (!fileName.EndsWith(".SLF", StringComparison.CurrentCultureIgnoreCase))
-            {
-                return false;
-            }
+            //if (string.IsNullOrEmpty(fileName))
+            //{
+            //    throw new ArgumentException("filename has to be provided");
+            //}
+            //if (!fileName.EndsWith(".SLF", StringComparison.CurrentCultureIgnoreCase))
+            //{
+            //    return false;
+            //}
 
             WasLastFileNameValid = true;
-            return true;
+            //return true;            
+
+            return manager.IsValid(fileName);
+
         }
 
     }
