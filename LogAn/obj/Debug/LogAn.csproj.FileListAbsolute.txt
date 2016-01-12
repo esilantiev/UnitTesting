@@ -1,0 +1,5 @@
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\bin\Debug\LogAn.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\bin\Debug\LogAn.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\obj\Debug\LogAn.csprojResolveAssemblyReference.cache
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\obj\Debug\LogAn.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\LogAn\obj\Debug\LogAn.pdb

@@ -1,0 +1,7 @@
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Examples\bin\Debug\Examples.exe
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Examples\bin\Debug\Examples.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Examples\obj\x86\Debug\Examples.csprojResolveAssemblyReference.cache
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Examples\obj\x86\Debug\Examples.Properties.Resources.resources
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Examples\obj\x86\Debug\Examples.csproj.GenerateResource.Cache
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Examples\obj\x86\Debug\Examples.exe
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Examples\obj\x86\Debug\Examples.pdb

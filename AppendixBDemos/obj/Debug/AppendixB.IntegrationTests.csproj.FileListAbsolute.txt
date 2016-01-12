@@ -1,0 +1,11 @@
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\AppendixBDemos.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\AppendixBDemos.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\nunit.framework.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\System.Data.SQLite.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\bin\Debug\nunit.framework.xml
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\obj\Debug\AppendixB.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\obj\Debug\AppendixBDemos.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\AppendixBDemos\obj\Debug\AppendixBDemos.pdb

@@ -1,0 +1,14 @@
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\NSubExamples.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\NSubExamples.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\Chapter5.LogAn.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\Moq.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\NSubstitute.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\nunit.framework.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\Chapter5.LogAn.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\Moq.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\Moq.xml
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\NSubstitute.xml
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\bin\Debug\nunit.framework.xml
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\obj\Debug\NSubExamples.csprojResolveAssemblyReference.cache
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\obj\Debug\NSubExamples.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\NSubExamples\obj\Debug\NSubExamples.pdb

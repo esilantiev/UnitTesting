@@ -1,0 +1,9 @@
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1.Console\bin\Debug\Chapter1.Console.exe
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1.Console\bin\Debug\Chapter1.Console.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1.Console\bin\Debug\Chapter1.dll
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1.Console\bin\Debug\Chapter1.pdb
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1.Console\obj\x86\Debug\Chapter1.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1.Console\obj\x86\Debug\Chapter1.Console.exe
+C:\Users\evgheni.silantiev\Source\Repos\aout2\ArtOfUnitTesting2ndEd.Samples\Chapter1.Console\obj\x86\Debug\Chapter1.Console.pdb
+D:\Repository\UnitTesting\Chapter1.Console\obj\x86\Debug\Chapter1.Console.exe
+D:\Repository\UnitTesting\Chapter1.Console\obj\x86\Debug\Chapter1.Console.pdb
