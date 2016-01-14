@@ -61,6 +61,7 @@
   <ItemGroup>
     <Compile Include="AsyncTests.cs" />
     <Compile Include="CalculatorTests.cs" />
+    <Compile Include="FakeExtensionManager.cs" />
     <Compile Include="GeneralThreadAffineContext.cs" />
     <Compile Include="LogAnalyzerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

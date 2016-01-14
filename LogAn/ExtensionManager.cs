@@ -7,6 +7,9 @@ namespace LogAn
 {
     public class ExtensionManager : IExtensionManager
     {
+        public bool willBeValid = false;
+        public Exception willThrow = null;
+
         public bool IsValid(string fileName)
         {
             if (string.IsNullOrEmpty(fileName))

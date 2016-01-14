@@ -6,15 +6,20 @@ namespace LogAn.UnitTests
     [TestFixture]
     public class LogAnalyzerTests
     {
-        //[Test]
-        //public void IsValidLogFileName_BadExtension_ReturnsFalse()
-        //{
-        //    LogAnalyzer analyzer = new LogAnalyzer();
+        [Test]
+        public void IsValidLogFileName_BadExtension_ReturnsFalse()
+        {
+            FakeExtensionManager stub = new FakeExtensionManager();
+            stub.willBeValid = true;
 
-        //    bool result = analyzer.IsValidLogFileName("filewithbadextension.foo");
+            TestabaleLogAnalyzer logan = new TestabaleLogAnalyzer(stub);
+            bool result = logan.IsValidLogFileName("filewithbadextension.foo");
+            //LogAnalyzer analyzer = new LogAnalyzer();
 
-        //    Assert.False(result);
-        //}
+            //bool result = analyzer.IsValidLogFileName("filewithbadextension.foo");
+
+            Assert.True(result);
+        }
 
         //[Test]
         //public void IsValidLogFileName_GoodExtensionLowercase_ReturnsTrue()
@@ -73,7 +78,7 @@ namespace LogAn.UnitTests
         private LogAnalyzer MakeAnalyzer()
         {
             
-            return new LogAnalyzer(new ExtensionManager());
+            return new LogAnalyzer();
         }
 
         [Test]

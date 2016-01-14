@@ -44,7 +44,9 @@
     <Compile Include="ExtensionManager.cs" />
     <Compile Include="IExtensionManager.cs" />
     <Compile Include="LogAnalyzer.cs" />
+    <Compile Include="LogAnalyzerUsingFactoryMethod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestabaleLogAnalyzer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

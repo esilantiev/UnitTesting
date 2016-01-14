@@ -8,9 +8,15 @@ namespace LogAn
 
         private IExtensionManager manager;
 
-        public LogAnalyzer(IExtensionManager mgr)
+        public LogAnalyzer()
         {
-            manager = mgr;
+            manager = new ExtensionManager();
+        }
+
+        public IExtensionManager ExtensionManager
+        {
+            get { return manager; }
+            set { manager = value; }
         }
 
         public bool IsValidLogFileName(string fileName)
